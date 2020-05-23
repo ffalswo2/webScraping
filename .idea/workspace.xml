@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e52a7ac0-c2ac-4f1e-9147-dc56c7392a4d" name="Default Changelist" comment="" />
+    <list default="true" id="e52a7ac0-c2ac-4f1e-9147-dc56c7392a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indeed.py" beforeDir="false" afterPath="$PROJECT_DIR$/indeed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/so.py" beforeDir="false" afterPath="$PROJECT_DIR$/so.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cAD3P4MGT7pQw2Up9EeFwH621L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="indeed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -66,9 +78,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="so" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webScraping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/so.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.so" />
         <item itemvalue="Python.indeed" />
       </list>
     </recent_temporary>
@@ -91,21 +125,25 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="369" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1589962396130" />
-    <state width="699" height="230" key="GridCell.Tab.0.bottom" timestamp="1590220894359">
+    <state width="699" height="230" key="GridCell.Tab.0.bottom" timestamp="1590227609315">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="699" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590220894359" />
-    <state width="699" height="230" key="GridCell.Tab.0.center" timestamp="1590220894359">
+    <state width="699" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590227609315" />
+    <state width="699" height="230" key="GridCell.Tab.0.center" timestamp="1590227609315">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="699" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590220894359" />
-    <state width="699" height="230" key="GridCell.Tab.0.left" timestamp="1590220894358">
+    <state width="699" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590227609315" />
+    <state width="699" height="230" key="GridCell.Tab.0.left" timestamp="1590227609314">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="699" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590220894358" />
-    <state width="699" height="230" key="GridCell.Tab.0.right" timestamp="1590220894359">
+    <state width="699" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590227609314" />
+    <state width="699" height="230" key="GridCell.Tab.0.right" timestamp="1590227609315">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="699" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590220894359" />
+    <state width="699" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590227609315" />
+    <state x="745" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1590225065808">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="745" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1590225065808" />
   </component>
 </project>
